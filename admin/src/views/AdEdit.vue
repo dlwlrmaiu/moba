@@ -75,12 +75,5 @@
 </script>
 
 <style scoped>
-  .avatar-uploader-icon {
-    width: auto;
-    min-width: 5rem;
-  }
-  .avatar {
-    width: auto;
-    min-width: 5rem;
-  }
+
 </style>
