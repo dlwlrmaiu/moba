@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="menu" unicode="&#58915;" d="M852.11 276A108 108 0 1 0 960 384a107.94 107.94 0 0 0-107.89-108zM512 276a108 108 0 1 0 107.89 108A107.95 107.95 0 0 0 512 276zM171.89 276a108 108 0 1 0 107.88 108 107.94 107.94 0 0 0-107.88-108z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="fanhui" unicode="&#58950;" d="M269.9 440.4L682.6 805.7c11.8 10.4 29.9 9.3 40.4-2.5 10.4-11.8 9.3-29.9-2.5-40.4L307.8 397.6c-11.8-10.4-29.9-9.3-40.4 2.5-10.4 11.7-9.3 29.9 2.5 40.3zM720.5 76L307.8 441.2c-11.8 10.4-29.9 9.3-40.4-2.5-10.4-11.8-9.3-29.9 2.5-40.4l412.8-365.2c11.8-10.4 29.9-9.3 40.4 2.5 10.3 11.8 9.2 30-2.6 40.4z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="Menu" unicode="&#58980;" d="M512-128a512 512 0 1 0 512 512 512 512 0 0 0-512-512z m0 992A480 480 0 1 1 992 384 480 480 0 0 1 512 864zM320 272h384v-32h-384v32z m0 128h384v-32h-384v32z m0 128h384v-32h-384v32z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
